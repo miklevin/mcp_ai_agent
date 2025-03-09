@@ -1,5 +1,9 @@
+httpx
+jupyter-ai[all]
+jupyterlab
+mcp[cli]
+nbstripout
 numpy
 pandas
 requests
-jupyterlab
-jupyter-ai[all]
+
